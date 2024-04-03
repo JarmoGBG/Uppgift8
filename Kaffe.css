@@ -5,7 +5,21 @@
 }
 
 body{
-    background-color:  #d0bb94;
+    background-color: #DE9F58;
+}
+
+h5{
+    background-color: #E7DCC6;
+}
+
+h2{
+    text-align: center;
+    background-color: #c4821d;
+}
+
+h1{
+    text-align: center;
+    background-color: #c49977;
 }
 
 footer{
